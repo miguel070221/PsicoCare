@@ -40,3 +40,5 @@ Write-Host "💡 Dica: Para parar os serviços, feche as janelas do PowerShell" 
 
 
 
+
+
